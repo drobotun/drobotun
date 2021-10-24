@@ -6,8 +6,6 @@
     :target: https://github.com/drobotun?tab=followers
 .. image:: https://img.shields.io/github/stars/drobotun?style=social
     :target: https://github.com/drobotun?tab=stars
-.. image:: https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FXakepRU
-    :target: https://twitter.com/XakepRU
 
 `][акер <https://xakep.ru>`_
 ===========================
