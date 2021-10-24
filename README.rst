@@ -24,6 +24,7 @@
 
 .. image:: https://komarev.com/ghpvc/?username=drobotun
     :target: https://github.com/drobotun 
+.. image:: https://img.shields.io/badge/%40-drobotun%40xakep.ru-blue
 .. image:: https://img.shields.io/github/followers/drobotun?style=social
     :target: https://github.com/drobotun?tab=followers
 .. image:: https://img.shields.io/github/stars/drobotun?style=social
