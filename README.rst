@@ -2,33 +2,11 @@
     :target: https://github.com/drobotun 
 .. image:: https://img.shields.io/badge/pypi-drobotun-blue?logo=pypi
     :target: https://pypi.org/user/drobotun/
+.. image:: https://img.shields.io/badge/-%5D%5Bakep-blue
+    :target: https://xakep.ru/author/drobotun/
 .. image:: https://img.shields.io/badge/-drobotun%40xakep.ru-blue?style=social&logo=mail.ru
     :target: mailto:drobotun@xakep.ru
 .. image:: https://img.shields.io/github/followers/drobotun?style=social
     :target: https://github.com/drobotun?tab=followers
 .. image:: https://img.shields.io/github/stars/drobotun?style=social
     :target: https://github.com/drobotun?tab=stars
-
-`][акер <https://xakep.ru>`_
-===========================
-
-- **[20/05/2021]** `Малварь на просвет. Используем Python для динамического анализа вредоносного кода. <https://xakep.ru/2021/05/20/malware-analysis-python/>`_
-- **[07/07/2020]** `Малварь на просвет. Учимся быстро искать признаки вредоносного кода. <https://xakep.ru/2020/07/07/malware-analysis/>`_
-- **[09/01/2020]** `Тотальная проверка. Используем API VirusTotal в своих проектах. <https://xakep.ru/2020/01/09/virustotal-api/>`_
-- **[18/07/2019]** `Криптуем по-крупному. Разбираемся с режимом гаммирования из ГОСТ 34.13—2015. <https://xakep.ru/2019/07/18/crypto-xor/>`_
-- **[09/06/2018]** `Дао хеша. Познаем дзен методически правильного хеширования паролей. <https://xakep.ru/2018/06/09/hash-it-right/>`_
-- **[06/06/2018]** `Русский народный блокчейн. Пишем простой локальный блокчейн с использованием «Стрибога». <https://xakep.ru/2018/06/06/stribog-blockchain/>`_
-- **[31/05/2018]** `Криптуем по-крупному. Разбираемся с режимами работы российских блочных шифров. <https://xakep.ru/2018/05/31/crypto-ecb/>`_
-- **[10/05/2018]** `Русская «Магма». Как работает отечественный алгоритм блочного шифрования. <https://xakep.ru/2018/05/10/working-with-magma/>`_
-- **[02/02/2017]** `Извращения с импортозамещением. Работаем с алгоритмом блочного шифрования «Кузнечик» из ГОСТ 34.12—2015. <https://xakep.ru/2017/02/02/working-with-grasshopper/>`_
-- **[20/07/2016]** `Импортозамещенное шифрование глазами программиста. Хешируем по ГОСТ 34.11—2012. <https://xakep.ru/2016/07/20/hash-gost-34-11-2012/>`_
-- **[20/12/2015]** `Полный гайд по борьбе с малварью. Выдай своему младшему брату, пусть сам все делает! <https://xakep.ru/2015/12/10/anti-malware-guide/>`_
-- **[26/08/2015]** `Дети лейтенанта CryptoLocker’a. Вскрываем DirCrypt, TorLocker, TeslaCrypt, TorrentLocker, Critroni и CryptoWall. <https://xakep.ru/2015/08/26/cryptolocker/>`_
-- **[09/04/2015]** `Большой обзор свежих эксплойт-паков. <https://xakep.ru/2015/04/09/195-exploit-packs/>`_
-- **[04/02/2015]** `Спам с вирусами. Как доставляют вредоносный контент по электронной почте. <https://xakep.ru/2015/02/04/spam-deliver-howto/>`_
-- **[12/12/2014]** `Рассматриваем способы мониторинга событий и проактивной защиты в разных антивирусных программах. <https://xakep.ru/2014/12/12/events-monitoring/>`_
-- **[01/11/2014]** `Малварь со странностями. Разбираем ключевые фрагменты кода малвари на скриптах и средствах автоматизации. <https://xakep.ru/2014/11/01/malvar-so-strannostyami/>`_
-- **[08/10/2014]** `Trojan Timba — самый маленький гномик. <https://xakep.ru/2014/10/08/trojan-timb/>`_
-- **[26/03/2014]** `Анатомия Cryptolocker. <https://xakep.ru/2014/03/26/62262/>`_
-- **[04/12/2013]** `Библиотека антиотладчика. <https://xakep.ru/2013/12/04/61704/>`_
-- **[08/11/2013]** `Детектим виртуалки. <https://xakep.ru/2013/11/08/61563/>`_
