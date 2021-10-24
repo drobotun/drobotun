@@ -1,4 +1,4 @@
-..image:: https://komarev.com/ghpvc/?username=drobotun
+![](https://komarev.com/ghpvc/?username=drobotun)
 
 `][акер <https://xakep.ru>`_
 ===========================
