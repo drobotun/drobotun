@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=drobotun)
-
 `][акер <https://xakep.ru>`_
 ===========================
 
@@ -24,3 +21,5 @@
 - **[26/03/2014]** `Анатомия Cryptolocker. <https://xakep.ru/2014/03/26/62262/>`_
 - **[04/12/2013]** `Библиотека антиотладчика. <https://xakep.ru/2013/12/04/61704/>`_
 - **[08/11/2013]** `Детектим виртуалки. <https://xakep.ru/2013/11/08/61563/>`_
+
+![](https://komarev.com/ghpvc/?username=drobotun)
