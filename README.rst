@@ -23,4 +23,6 @@
 - **[08/11/2013]** `Детектим виртуалки. <https://xakep.ru/2013/11/08/61563/>`_
 
 .. image:: https://komarev.com/ghpvc/?username=drobotun
-    :target: https://github.com/drobotun    
+    :target: https://github.com/drobotun 
+.. image:: https://img.shields.io/github/followers/drobotun?style=social
+    :target: https://github.com/drobotun?tab=followers
