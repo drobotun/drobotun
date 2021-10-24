@@ -1,6 +1,5 @@
 .. image:: https://komarev.com/ghpvc/?username=drobotun
-    :target: https://github.com/drobotun
-    
+    :target: https://github.com/drobotun    
 `][акер <https://xakep.ru>`_
 ===========================
 
