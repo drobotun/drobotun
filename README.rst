@@ -22,4 +22,4 @@
 - **[04/12/2013]** `Библиотека антиотладчика. <https://xakep.ru/2013/12/04/61704/>`_
 - **[08/11/2013]** `Детектим виртуалки. <https://xakep.ru/2013/11/08/61563/>`_
 
-![](https://komarev.com/ghpvc/?username=drobotun)
+    ![](https://komarev.com/ghpvc/?username=drobotun)
