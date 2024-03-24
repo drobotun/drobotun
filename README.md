@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,py,qt" />
   </a>
 </p>
