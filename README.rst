@@ -10,4 +10,8 @@
    :target: https://github.com/drobotun?tab=followers
 .. image:: https://img.shields.io/github/stars/drobotun?style=social
    :target: https://github.com/drobotun?tab=stars
-    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
